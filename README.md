@@ -1,4 +1,6 @@
 # crm-frontend
+project tutorial:
+https://www.youtube.com/playlist?list=PLpyspNLjzwBl-u7Vh8mGfqqRKcVxHzqlp
 
 ## Project setup
 ```
